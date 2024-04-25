@@ -1,0 +1,130 @@
+#EXTM3U
+
+#EXTINF:-1,TFI
+http://livetv.ktv.zone/3/play.m3u8
+
+#EXTINF:-1,FRANCE 2
+http://livetv.ktv.zone/4/play.m3u8
+
+#EXTINF:-1,FRANCE 3
+http://livetv.ktv.zone/5/play.m3u8
+
+#EXTINF:-1,FRANCE 4
+http://livetv.ktv.zone/16/play.m3u8
+
+#EXTINF:-1,FRANCE 5
+http://livetv.ktv.zone/7/play.m3u8
+
+#EXTINF:-1,M6
+http://livetv.ktv.zone/8/play.m3u8
+
+#EXTINF:-1,C8
+http://livetv.ktv.zone/10/play.m3u8
+
+#EXTINF:-1,W9
+http://livetv.ktv.zone/11/play.m3u8
+
+#EXTINF:-1,6Ter
+http://livetv.ktv.zone/24/play.m3u8
+
+#EXTINF:-1,TF1 SERIES FILMS
+http://livetv.ktv.zone/22/play.m3u8
+
+#EXTINF:-1,TMC
+http://livetv.ktv.zone/12/play.m3u8
+
+#EXTINF:-1,TFX
+http://livetv.ktv.zone/13/play.m3u8
+
+#EXTINF:-1,ARTE
+http://livetv.ktv.zone/9/play.m3u8
+
+#EXTINF:-1,NRJ12
+http://livetv.ktv.zone/14/play.m3u8
+
+#EXTINF:-1,BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1,GULLI
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+
+#EXTINF:-1,CANAL PLUS
+http://livetv.ktv.zone/6/play.m3u8
+
+#EXTINF:-1,EMCI TV
+http://livetv.ktv.zone/15/play.m3u8
+
+#EXTINF:-1,CNEWS
+http://livetv.ktv.zone/18/play.m3u8
+
+#EXTINF:-1,CSTAR
+http://livetv.ktv.zone/19/play.m3u8
+
+#EXTINF:-1,L'Équipe
+http://livetv.ktv.zone/23/play.m3u8
+
+#EXTINF:-1,RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+
+#EXTINF:-1,RMC Decouverte
+http://livetv.ktv.zone/26/play.m3u8
+
+#EXTINF:-1,Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
+
+#EXTINF:-1,LCI
+http://livetv.ktv.zone/28/play.m3u8
+
+#EXTINF:-1,FRENCH INFO
+http://livetv.ktv.zone/29/play.m3u8
+
+#EXTINF:-1,RTS 1
+http://livetv.ktv.zone/1/play.m3u8
+
+#EXTINF:-1,TV5 MONDE EUROPE
+http://livetv.ktv.zone/61/play.m3u8
+
+#EXTINF:-1,TV5 MONDE INFO
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
+#EXTINF:-1,LCP
+http://livetv.ktv.zone/15/play.m3u8
+
+#EXTINF:-1,FRANCE 24
+https://www.youtube.com/c/FRANCE24/live
+
+#EXTINF:-1,RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+
+#EXTINF:-1,I24 NEWS
+https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+
+#EXTINF:-1,Teva
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8
+
+#EXTINF:-1,AfricaNews Français
+https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1,France Inter
+https://www.youtube.com/c/FranceInter/live
+
+#EXTINF:-1,Kan 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+
+#EXTINF:-1,Aroutz 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1,Aroutz 14
+https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
+
+#EXTINF:-1,The Shopping Channel 21 ערוץ הקניות
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+
+#EXTINF:-1,Kan hinouh
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1,Knesset
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1,Hidabroot
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8

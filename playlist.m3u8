@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TFI" tvg-name="TFI" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.1min30.com%2Flogo%2Flogo-tf1-1671&psig=AOvVaw3m4q3q5bHpKAOQu_BfLo34&ust=1714145601937000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIikk4_Y3YUDFQAAAAAdAAAAABAE",TFI
+#EXTINF:-1 tvg-id="TFI" tvg-name="TFI" tvg-logo="https://imgur.com/r6kx6jF.png",TFI
 http://livetv.ktv.zone/3/play.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE2" tvg-name="FRANCE 2" tvg-logo="https://example.com/france2_logo.png",FRANCE 2

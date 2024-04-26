@@ -51,9 +51,6 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 #EXTINF:-1 group-title="Chaînes françaises" tvg-id="CANALPLUS" tvg-name="CANAL PLUS" tvg-logo="https://imgur.com/gaD9T28.png",CANAL PLUS
 http://livetv.ktv.zone/6/play.m3u8
 
-#EXTINF:-1 group-title="Chaînes françaises" tvg-id="EMCITV" tvg-name="EMCI TV" tvg-logo="https://imgur.com/eAM0scC.png",EMCI TV
-http://livetv.ktv.zone/15/play.m3u8
-
 #EXTINF:-1 group-title="Chaînes françaises" tvg-id="CNEWS" tvg-name="CNEWS" tvg-logo="https://imgur.com/hs6SB2o.png",CNEWS
 http://livetv.ktv.zone/18/play.m3u8
 

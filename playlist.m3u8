@@ -125,37 +125,3 @@ https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Chaînes israéliennes" tvg-id="HIDABROOT" tvg-name="Hidabroot" tvg-logo="https://imgur.com/ejLBhxy.png",Hidabroot
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-
-
-
-
-#EXTINF:-1,RMC_SPORT_3_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/231.ts
-#EXTINF:-1,RMC_SPORT_4_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/520.ts
-#EXTINF:-1,RMC_SPORT_5_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/519.ts
-#EXTINF:-1,RMC_SPORT_LIVE_5_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/518.ts
-#EXTINF:-1,RMC_SPORT_LIVE_6_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/517.ts
-#EXTINF:-1,RMC_SPORT_LIVE_7_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/516.ts
-#EXTINF:-1,RMC_SPORT_LIVE_8_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/515.ts
-#EXTINF:-1,RMC_SPORT_LIVE_9_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/514.ts
-#EXTINF:-1,RMC_SPORT_LIVE_10_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/513.ts
-#EXTINF:-1,RMC_SPORT_LIVE_11_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/512.ts
-#EXTINF:-1,RMC_SPORT_LIVE_12_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/511.ts
-#EXTINF:-1,RMC_SPORT_LIVE_13_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/510.ts
-#EXTINF:-1,RMC_SPORT_LIVE_14_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/509.ts
-#EXTINF:-1,RMC_SPORT_LIVE_15_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/508.ts
-#EXTINF:-1,RMC_SPORT_LIVE_16_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/507.ts

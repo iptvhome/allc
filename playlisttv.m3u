@@ -42,6 +42,9 @@ http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id="NRJ12" tvg-name="NRJ12" tvg-logo="https://imgur.com/4BKAlMO.png",NRJ12
 http://livetv.ktv.zone/14/play.m3u8
 
+#EXTINF:-1 tvg-id="20MINUTES" tvg-name="20MINUTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png" 20 Minutes
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+
 #EXTINF:-1 tvg-id="BFMTV" tvg-name="BFM TV" tvg-logo="https://imgur.com/FyrTi5C.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 

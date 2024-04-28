@@ -52,7 +52,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 
 #EXTINF:-1 tvg-id="CANALPLUS" tvg-name="CANAL PLUS" tvg-logo="https://imgur.com/gaD9T28.png",CANAL PLUS
-http://livetv.ktv.zone/6/play.m3u8
+http://hls-m007.live-cft.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 
 #EXTINF:-1 tvg-id="CNEWS" tvg-name="CNEWS" tvg-logo="https://imgur.com/hs6SB2o.png",CNEWS
 http://livetv.ktv.zone/18/play.m3u8

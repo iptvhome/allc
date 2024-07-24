@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Chaînes françaises" tvg-id="TFI" tvg-name="TFI" tvg-logo="https://imgur.com/r6kx6jF.png",TFI
-http://livetv.ktv.zone/3/play.m3u8
+https://webhdrunns.mizhls.ru/lb/premium144/index.m3u8
 
 #EXTINF:-1 group-title="Chaînes françaises" tvg-id="FRANCE2" tvg-name="FRANCE 2" tvg-logo="https://imgur.com/MQHbpit.png",FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
